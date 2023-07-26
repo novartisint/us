@@ -1,0 +1,23 @@
+.recruit H1{
+    color: red;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.recruit .buttton {
+    color: red;
+    text-align: center;
+  background-color:#0460a9;
+  border: red;
+  width:fit-content;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: sans-serif ;
+  font-weight: bold;
+  border-radius: 0;
+
+}
